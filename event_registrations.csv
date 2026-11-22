@@ -1,0 +1,177 @@
+Event_ID,Event_Name,Category,Department,Academic_Year,Month,Registrations,Attended,Capacity
+H2018EVT003,CodeSprint,Technical,Commerce,2018-19,March,63,54,113
+H2018EVT013,Finance Forum,Management,Commerce,2018-19,January,71,69,94
+H2018EVT033,Literary Week,Literary,Commerce,2018-19,September,36,36,113
+H2018EVT023,Theatre Evening,Cultural,Commerce,2018-19,November,186,114,235
+H2018EVT031,Athletics Meet,Sports,Computer Science,2018-19,July,37,29,113
+H2018EVT021,Dance Showcase,Cultural,Computer Science,2018-19,September,49,32,94
+H2018EVT011,Startup Summit,Management,Computer Science,2018-19,November,129,90,169
+H2018EVT001,TechFest,Technical,Computer Science,2018-19,January,256,207,329
+MCA20181,Gateways,Technical,MCA,2018-19,February,180,145,300
+MCA20182,Revelations,Technical,MCA,2018-19,March,215,176,350
+H2018EVT005,AI Symposium,Technical,Management,2018-19,May,71,54,141
+H2018EVT035,Debate Championship,Literary,Management,2018-19,November,84,82,169
+H2018EVT015,Marketing Mania,Management,Management,2018-19,March,72,71,141
+H2018EVT025,Sports Carnival,Sports,Management,2018-19,January,224,139,329
+H2018EVT029,Badminton Open,Sports,Media Studies,2018-19,May,68,64,113
+H2018EVT039,Book Fair,Literary,Media Studies,2018-19,March,63,46,94
+H2018EVT009,Business Conclave,Management,Media Studies,2018-19,September,76,70,235
+H2018EVT019,Music Fiesta,Cultural,Media Studies,2018-19,July,103,76,282
+H2018EVT017,Cultural Night,Cultural,Psychology,2018-19,May,54,51,94
+H2018EVT007,Cybersecurity Week,Technical,Psychology,2018-19,July,82,69,113
+H2018EVT027,Interdepartmental Football,Sports,Psychology,2018-19,March,163,163,282
+H2018EVT037,Poetry Slam,Literary,Psychology,2018-19,January,178,152,282
+H2019EVT003,CodeSprint,Technical,Commerce,2019-20,March,65,55,114
+H2019EVT013,Finance Forum,Management,Commerce,2019-20,January,74,71,95
+H2019EVT033,Literary Week,Literary,Commerce,2019-20,September,37,37,114
+H2019EVT023,Theatre Evening,Cultural,Commerce,2019-20,November,192,117,238
+H2019EVT031,Athletics Meet,Sports,Computer Science,2019-20,July,38,30,114
+H2019EVT021,Dance Showcase,Cultural,Computer Science,2019-20,September,51,33,95
+H2019EVT011,Startup Summit,Management,Computer Science,2019-20,November,133,93,171
+H2019EVT001,TechFest,Technical,Computer Science,2019-20,January,263,214,332
+MCA20191,Gateways,Technical,MCA,2019-20,February,192,157,300
+MCA20192,Revelations,Technical,MCA,2019-20,March,227,173,350
+H2019EVT005,AI Symposium,Technical,Management,2019-20,May,73,55,142
+H2019EVT035,Debate Championship,Literary,Management,2019-20,November,87,84,171
+H2019EVT015,Marketing Mania,Management,Management,2019-20,March,74,73,142
+H2019EVT025,Sports Carnival,Sports,Management,2019-20,January,231,144,332
+H2019EVT029,Badminton Open,Sports,Media Studies,2019-20,May,70,66,114
+H2019EVT039,Book Fair,Literary,Media Studies,2019-20,March,65,47,95
+H2019EVT009,Business Conclave,Management,Media Studies,2019-20,September,79,72,238
+H2019EVT019,Music Fiesta,Cultural,Media Studies,2019-20,July,106,78,285
+H2019EVT017,Cultural Night,Cultural,Psychology,2019-20,May,55,52,95
+H2019EVT007,Cybersecurity Week,Technical,Psychology,2019-20,July,84,71,114
+H2019EVT027,Interdepartmental Football,Sports,Psychology,2019-20,March,168,168,285
+H2019EVT037,Poetry Slam,Literary,Psychology,2019-20,January,184,157,285
+H2020EVT003,CodeSprint,Technical,Commerce,2020-21,March,67,57,115
+H2020EVT013,Finance Forum,Management,Commerce,2020-21,January,76,73,96
+H2020EVT033,Literary Week,Literary,Commerce,2020-21,September,38,38,115
+H2020EVT023,Theatre Evening,Cultural,Commerce,2020-21,November,197,121,240
+H2020EVT031,Athletics Meet,Sports,Computer Science,2020-21,July,40,31,115
+H2020EVT021,Dance Showcase,Cultural,Computer Science,2020-21,September,52,34,96
+H2020EVT011,Startup Summit,Management,Computer Science,2020-21,November,137,95,173
+H2020EVT001,TechFest,Technical,Computer Science,2020-21,January,271,220,336
+MCA20201,Gateways,Technical,MCA,2020-21,February,204,155,300
+MCA20202,Revelations,Technical,MCA,2020-21,March,239,185,350
+H2020EVT005,AI Symposium,Technical,Management,2020-21,May,75,57,144
+H2020EVT035,Debate Championship,Literary,Management,2020-21,November,89,86,173
+H2020EVT015,Marketing Mania,Management,Management,2020-21,March,76,75,144
+H2020EVT025,Sports Carnival,Sports,Management,2020-21,January,238,148,336
+H2020EVT029,Badminton Open,Sports,Media Studies,2020-21,May,72,68,115
+H2020EVT039,Book Fair,Literary,Media Studies,2020-21,March,67,49,96
+H2020EVT009,Business Conclave,Management,Media Studies,2020-21,September,81,74,240
+H2020EVT019,Music Fiesta,Cultural,Media Studies,2020-21,July,109,80,288
+H2020EVT017,Cultural Night,Cultural,Psychology,2020-21,May,57,54,96
+H2020EVT007,Cybersecurity Week,Technical,Psychology,2020-21,July,86,73,115
+H2020EVT027,Interdepartmental Football,Sports,Psychology,2020-21,March,173,173,288
+H2020EVT037,Poetry Slam,Literary,Psychology,2020-21,January,189,161,288
+H2021EVT003,CodeSprint,Technical,Commerce,2021-22,March,68,58,116
+H2021EVT013,Finance Forum,Management,Commerce,2021-22,January,78,75,97
+H2021EVT033,Literary Week,Literary,Commerce,2021-22,September,39,39,116
+H2021EVT023,Theatre Evening,Cultural,Commerce,2021-22,November,203,124,242
+H2021EVT031,Athletics Meet,Sports,Computer Science,2021-22,July,41,31,116
+H2021EVT021,Dance Showcase,Cultural,Computer Science,2021-22,September,54,35,97
+H2021EVT011,Startup Summit,Management,Computer Science,2021-22,November,141,98,175
+H2021EVT001,TechFest,Technical,Computer Science,2021-22,January,278,226,340
+MCA20211,Gateways,Technical,MCA,2021-22,February,216,167,300
+MCA20212,Revelations,Technical,MCA,2021-22,March,251,198,350
+H2021EVT005,AI Symposium,Technical,Management,2021-22,May,77,58,146
+H2021EVT035,Debate Championship,Literary,Management,2021-22,November,92,89,175
+H2021EVT015,Marketing Mania,Management,Management,2021-22,March,79,77,146
+H2021EVT025,Sports Carnival,Sports,Management,2021-22,January,244,152,340
+H2021EVT029,Badminton Open,Sports,Media Studies,2021-22,May,74,69,116
+H2021EVT039,Book Fair,Literary,Media Studies,2021-22,March,68,50,97
+H2021EVT009,Business Conclave,Management,Media Studies,2021-22,September,83,76,242
+H2021EVT019,Music Fiesta,Cultural,Media Studies,2021-22,July,112,82,291
+H2021EVT017,Cultural Night,Cultural,Psychology,2021-22,May,58,56,97
+H2021EVT007,Cybersecurity Week,Technical,Psychology,2021-22,July,89,75,116
+H2021EVT027,Interdepartmental Football,Sports,Psychology,2021-22,March,178,178,291
+H2021EVT037,Poetry Slam,Literary,Psychology,2021-22,January,194,166,291
+H2022EVT003,CodeSprint,Technical,Commerce,2022-23,March,70,60,118
+H2022EVT013,Finance Forum,Management,Commerce,2022-23,January,80,77,98
+H2022EVT033,Literary Week,Literary,Commerce,2022-23,September,40,40,118
+H2022EVT023,Theatre Evening,Cultural,Commerce,2022-23,November,208,127,245
+H2022EVT031,Athletics Meet,Sports,Computer Science,2022-23,July,42,32,118
+H2022EVT021,Dance Showcase,Cultural,Computer Science,2022-23,September,55,36,98
+H2022EVT011,Startup Summit,Management,Computer Science,2022-23,November,144,101,176
+H2022EVT001,TechFest,Technical,Computer Science,2022-23,January,286,232,343
+MCA20221,Gateways,Technical,MCA,2022-23,February,228,180,300
+MCA20222,Revelations,Technical,MCA,2022-23,March,263,212,350
+H2022EVT005,AI Symposium,Technical,Management,2022-23,May,79,60,147
+H2022EVT035,Debate Championship,Literary,Management,2022-23,November,94,91,176
+H2022EVT015,Marketing Mania,Management,Management,2022-23,March,81,79,147
+H2022EVT025,Sports Carnival,Sports,Management,2022-23,January,251,156,343
+H2022EVT029,Badminton Open,Sports,Media Studies,2022-23,May,76,71,118
+H2022EVT039,Book Fair,Literary,Media Studies,2022-23,March,70,51,98
+H2022EVT009,Business Conclave,Management,Media Studies,2022-23,September,86,78,245
+H2022EVT019,Music Fiesta,Cultural,Media Studies,2022-23,July,115,85,294
+H2022EVT017,Cultural Night,Cultural,Psychology,2022-23,May,60,57,98
+H2022EVT007,Cybersecurity Week,Technical,Psychology,2022-23,July,91,77,118
+H2022EVT027,Interdepartmental Football,Sports,Psychology,2022-23,March,182,182,294
+H2022EVT037,Poetry Slam,Literary,Psychology,2022-23,January,200,170,294
+H2023EVT003,CodeSprint,Technical,Commerce,2023-24,March,72,61,119
+H2023EVT013,Finance Forum,Management,Commerce,2023-24,January,82,79,99
+H2023EVT033,Literary Week,Literary,Commerce,2023-24,September,41,41,119
+H2023EVT023,Theatre Evening,Cultural,Commerce,2023-24,November,214,131,248
+H2023EVT031,Athletics Meet,Sports,Computer Science,2023-24,July,43,33,119
+H2023EVT021,Dance Showcase,Cultural,Computer Science,2023-24,September,57,37,99
+H2023EVT011,Startup Summit,Management,Computer Science,2023-24,November,148,103,178
+H2023EVT001,TechFest,Technical,Computer Science,2023-24,January,293,238,346
+MCA20231,Gateways,Technical,MCA,2023-24,February,240,193,300
+MCA20232,Revelations,Technical,MCA,2023-24,March,275,226,350
+H2023EVT005,AI Symposium,Technical,Management,2023-24,May,81,61,148
+H2023EVT035,Debate Championship,Literary,Management,2023-24,November,97,94,178
+H2023EVT015,Marketing Mania,Management,Management,2023-24,March,83,81,148
+H2023EVT025,Sports Carnival,Sports,Management,2023-24,January,257,160,346
+H2023EVT029,Badminton Open,Sports,Media Studies,2023-24,May,78,73,119
+H2023EVT039,Book Fair,Literary,Media Studies,2023-24,March,72,53,99
+H2023EVT009,Business Conclave,Management,Media Studies,2023-24,September,88,80,248
+H2023EVT019,Music Fiesta,Cultural,Media Studies,2023-24,July,118,87,297
+H2023EVT017,Cultural Night,Cultural,Psychology,2023-24,May,61,58,99
+H2023EVT007,Cybersecurity Week,Technical,Psychology,2023-24,July,94,79,119
+H2023EVT027,Interdepartmental Football,Sports,Psychology,2023-24,March,187,187,297
+H2023EVT037,Poetry Slam,Literary,Psychology,2023-24,January,205,175,297
+EVT003,CodeSprint,Technical,Commerce,2024-25,March,74,63,120
+EVT013,Finance Forum,Management,Commerce,2024-25,January,84,81,100
+EVT033,Literary Week,Literary,Commerce,2024-25,September,42,42,120
+EVT023,Theatre Evening,Cultural,Commerce,2024-25,November,219,134,250
+EVT031,Athletics Meet,Sports,Computer Science,2024-25,July,44,34,120
+EVT021,Dance Showcase,Cultural,Computer Science,2024-25,September,58,38,100
+EVT011,Startup Summit,Management,Computer Science,2024-25,November,152,106,180
+EVT001,TechFest,Technical,Computer Science,2024-25,January,301,244,350
+MCA20241,Gateways,Technical,MCA,2024-25,February,252,207,300
+MCA20242,Revelations,Technical,MCA,2024-25,March,287,218,350
+EVT005,AI Symposium,Technical,Management,2024-25,May,83,63,150
+EVT035,Debate Championship,Literary,Management,2024-25,November,99,96,180
+EVT015,Marketing Mania,Management,Management,2024-25,March,85,83,150
+EVT025,Sports Carnival,Sports,Management,2024-25,January,264,164,350
+EVT029,Badminton Open,Sports,Media Studies,2024-25,May,80,75,120
+EVT039,Book Fair,Literary,Media Studies,2024-25,March,74,54,100
+EVT009,Business Conclave,Management,Media Studies,2024-25,September,90,82,250
+EVT019,Music Fiesta,Cultural,Media Studies,2024-25,July,121,89,300
+EVT017,Cultural Night,Cultural,Psychology,2024-25,May,63,60,100
+EVT007,Cybersecurity Week,Technical,Psychology,2024-25,July,96,81,120
+EVT027,Interdepartmental Football,Sports,Psychology,2024-25,March,192,192,300
+EVT037,Poetry Slam,Literary,Psychology,2024-25,January,210,179,300
+EVT030,Badminton Open,Sports,Commerce,2025-26,October,194,177,350
+EVT040,Book Fair,Literary,Commerce,2025-26,August,110,75,180
+EVT010,Business Conclave,Management,Commerce,2025-26,February,87,71,200
+EVT020,Music Fiesta,Cultural,Commerce,2025-26,December,241,184,350
+EVT018,Cultural Night,Cultural,Computer Science,2025-26,October,96,91,150
+EVT008,Cybersecurity Week,Technical,Computer Science,2025-26,December,77,72,100
+EVT028,Interdepartmental Football,Sports,Computer Science,2025-26,August,80,62,120
+EVT038,Poetry Slam,Literary,Computer Science,2025-26,June,46,37,100
+MCA20251,Gateways,Technical,MCA,2025-26,February,264,201,300
+MCA20252,Revelations,Technical,MCA,2025-26,March,299,232,350
+EVT032,Athletics Meet,Sports,Management,2025-26,December,160,153,180
+EVT022,Dance Showcase,Cultural,Management,2025-26,February,92,83,200
+EVT012,Startup Summit,Management,Management,2025-26,April,92,72,120
+EVT002,TechFest,Technical,Management,2025-26,June,95,59,200
+EVT006,AI Symposium,Technical,Media Studies,2025-26,October,140,127,350
+EVT036,Debate Championship,Literary,Media Studies,2025-26,April,46,43,120
+EVT016,Marketing Mania,Management,Media Studies,2025-26,August,46,46,100
+EVT026,Sports Carnival,Sports,Media Studies,2025-26,June,173,107,250
+EVT004,CodeSprint,Technical,Psychology,2025-26,August,117,92,200
+EVT014,Finance Forum,Management,Psychology,2025-26,June,63,50,120
+EVT034,Literary Week,Literary,Psychology,2025-26,February,58,58,100
+EVT024,Theatre Evening,Cultural,Psychology,2025-26,April,83,61,180
