@@ -1,0 +1,16 @@
+[theme]
+font="'Shantell Sans':https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+base = "light"
+primaryColor = "#2457A6"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F5FA"
+textColor = "#17233C"
+font = "sans serif"
+baseRadius = "medium"
+showWidgetBorder = true
+chartCategoricalColors = ["#2457A6", "#2D8A75", "#D49B37", "#7656A5", "#C45B55"]
+chartSequentialColors = ["#E8F0FB", "#AFC7E8", "#6F98CC", "#2457A6"]
+
+[theme.sidebar]
+backgroundColor = "#F2F5FA"
+secondaryBackgroundColor = "#FFFFFF"

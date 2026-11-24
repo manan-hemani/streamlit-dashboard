@@ -6,7 +6,7 @@ H2018EVT023,Theatre Evening,Cultural,Commerce,2018-19,November,186,114,235
 H2018EVT031,Athletics Meet,Sports,Computer Science,2018-19,July,37,29,113
 H2018EVT021,Dance Showcase,Cultural,Computer Science,2018-19,September,49,32,94
 H2018EVT011,Startup Summit,Management,Computer Science,2018-19,November,129,90,169
-H2018EVT001,TechFest,Technical,Computer Science,2018-19,January,256,207,329
+H2018EVT001,Blossoms,Cultural,Sciences,2018-19,January,256,207,329
 MCA20181,Gateways,Technical,MCA,2018-19,February,180,145,300
 MCA20182,Revelations,Technical,MCA,2018-19,March,215,176,350
 H2018EVT005,AI Symposium,Technical,Management,2018-19,May,71,54,141
@@ -28,7 +28,7 @@ H2019EVT023,Theatre Evening,Cultural,Commerce,2019-20,November,192,117,238
 H2019EVT031,Athletics Meet,Sports,Computer Science,2019-20,July,38,30,114
 H2019EVT021,Dance Showcase,Cultural,Computer Science,2019-20,September,51,33,95
 H2019EVT011,Startup Summit,Management,Computer Science,2019-20,November,133,93,171
-H2019EVT001,TechFest,Technical,Computer Science,2019-20,January,263,214,332
+H2019EVT001,Blossoms,Cultural,Sciences,2019-20,January,263,214,332
 MCA20191,Gateways,Technical,MCA,2019-20,February,192,157,300
 MCA20192,Revelations,Technical,MCA,2019-20,March,227,173,350
 H2019EVT005,AI Symposium,Technical,Management,2019-20,May,73,55,142
@@ -50,7 +50,7 @@ H2020EVT023,Theatre Evening,Cultural,Commerce,2020-21,November,197,121,240
 H2020EVT031,Athletics Meet,Sports,Computer Science,2020-21,July,40,31,115
 H2020EVT021,Dance Showcase,Cultural,Computer Science,2020-21,September,52,34,96
 H2020EVT011,Startup Summit,Management,Computer Science,2020-21,November,137,95,173
-H2020EVT001,TechFest,Technical,Computer Science,2020-21,January,271,220,336
+H2020EVT001,Blossoms,Cultural,Sciences,2020-21,January,271,220,336
 MCA20201,Gateways,Technical,MCA,2020-21,February,204,155,300
 MCA20202,Revelations,Technical,MCA,2020-21,March,239,185,350
 H2020EVT005,AI Symposium,Technical,Management,2020-21,May,75,57,144
@@ -72,7 +72,7 @@ H2021EVT023,Theatre Evening,Cultural,Commerce,2021-22,November,203,124,242
 H2021EVT031,Athletics Meet,Sports,Computer Science,2021-22,July,41,31,116
 H2021EVT021,Dance Showcase,Cultural,Computer Science,2021-22,September,54,35,97
 H2021EVT011,Startup Summit,Management,Computer Science,2021-22,November,141,98,175
-H2021EVT001,TechFest,Technical,Computer Science,2021-22,January,278,226,340
+H2021EVT001,Blossoms,Cultural,Sciences,2021-22,January,278,226,340
 MCA20211,Gateways,Technical,MCA,2021-22,February,216,167,300
 MCA20212,Revelations,Technical,MCA,2021-22,March,251,198,350
 H2021EVT005,AI Symposium,Technical,Management,2021-22,May,77,58,146
@@ -94,7 +94,7 @@ H2022EVT023,Theatre Evening,Cultural,Commerce,2022-23,November,208,127,245
 H2022EVT031,Athletics Meet,Sports,Computer Science,2022-23,July,42,32,118
 H2022EVT021,Dance Showcase,Cultural,Computer Science,2022-23,September,55,36,98
 H2022EVT011,Startup Summit,Management,Computer Science,2022-23,November,144,101,176
-H2022EVT001,TechFest,Technical,Computer Science,2022-23,January,286,232,343
+H2022EVT001,Blossoms,Cultural,Sciences,2022-23,January,286,232,343
 MCA20221,Gateways,Technical,MCA,2022-23,February,228,180,300
 MCA20222,Revelations,Technical,MCA,2022-23,March,263,212,350
 H2022EVT005,AI Symposium,Technical,Management,2022-23,May,79,60,147
@@ -116,7 +116,7 @@ H2023EVT023,Theatre Evening,Cultural,Commerce,2023-24,November,214,131,248
 H2023EVT031,Athletics Meet,Sports,Computer Science,2023-24,July,43,33,119
 H2023EVT021,Dance Showcase,Cultural,Computer Science,2023-24,September,57,37,99
 H2023EVT011,Startup Summit,Management,Computer Science,2023-24,November,148,103,178
-H2023EVT001,TechFest,Technical,Computer Science,2023-24,January,293,238,346
+H2023EVT001,Blossoms,Cultural,Sciences,2023-24,January,293,238,346
 MCA20231,Gateways,Technical,MCA,2023-24,February,240,193,300
 MCA20232,Revelations,Technical,MCA,2023-24,March,275,226,350
 H2023EVT005,AI Symposium,Technical,Management,2023-24,May,81,61,148
@@ -138,7 +138,7 @@ EVT023,Theatre Evening,Cultural,Commerce,2024-25,November,219,134,250
 EVT031,Athletics Meet,Sports,Computer Science,2024-25,July,44,34,120
 EVT021,Dance Showcase,Cultural,Computer Science,2024-25,September,58,38,100
 EVT011,Startup Summit,Management,Computer Science,2024-25,November,152,106,180
-EVT001,TechFest,Technical,Computer Science,2024-25,January,301,244,350
+EVT001,Blossoms,Cultural,Sciences,2024-25,January,301,244,350
 MCA20241,Gateways,Technical,MCA,2024-25,February,252,207,300
 MCA20242,Revelations,Technical,MCA,2024-25,March,287,218,350
 EVT005,AI Symposium,Technical,Management,2024-25,May,83,63,150
